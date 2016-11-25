@@ -6,4 +6,7 @@ function extendAPIOutput(req, res, next) {
             result: data
         });
     };
+    // 响应API出错结果，err是一个ERROR对象，
+    // 
+    // 
 }
