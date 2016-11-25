@@ -1,0 +1,10 @@
+{
+    "status": "ok",
+    "result": "test"
+}
+
+{
+    "status": "Error",
+    "error_code": "出错代码",
+    "error_message": "详细的出错信息"
+}
